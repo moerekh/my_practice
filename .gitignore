@@ -1,4 +1,19 @@
 #Files
-__pycache__/
 .DS_Store
 node_modules/
+
+#From Flask Site
+venv/
+
+*.pyc
+__pycache__/
+
+instance/
+
+.pytest_cache/
+.coverage
+htmlcov/
+
+dist/
+build/
+*.egg-info/
