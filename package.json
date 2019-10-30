@@ -14,7 +14,7 @@
   "devDependencies": {},
   "scripts": {
     "build-css": "node-sass --include-path scss static/src/css/main.scss static/dist/css/main.css",
-    "watch-css": "nodemon -e scss -x \"npm run build-css\""
+    "watch-css": "nodemon -e scss -x \"npm run build-css\""    
   },
   "repository": {
     "type": "git",
